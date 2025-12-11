@@ -188,7 +188,7 @@ img {
 .quote {
     font-size: 0.9rem;
     line-height: 1.4;
-    max-width: 300px;
+    width: fit-content;
     min-height: 1.4em; /* Reserves height */
     border-right: 2px solid var(--text-color);
     white-space: nowrap;
